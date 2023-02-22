@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jovver
 - 👀 I’m interested in learning how to code and become better in coding
-- 🌱 I’m currently learning C#, JavaScript, and Python
+- 🌱 I’m currently learning C#, JavaScript, Java, and Python
 - 💞️ I’m looking to collaborate on UiPath projects, Test Automation frameworks, 
 - 📫 How to reach me:
 - LinkedIn: https://www.linkedin.com/in/jonvergara/
